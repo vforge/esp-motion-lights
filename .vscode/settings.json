@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/v/.platformio/penv/bin:/Users/v/.platformio/penv:/Users/v/.nvm/versions/node/v10.15.3/bin:/Users/v/.zplug/bin:/Users/v/.rbenv/shims:./bin:/Users/v/bin:/Users/v/.yarn/bin:/usr/local/bin:/usr/local/sbin:/Users/v/.dotfiles/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Users/v/.zplug/repos/unixorn/warhol.plugin.zsh/bin:/Users/v/.zplug/repos/skx/sysadmin-util",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
